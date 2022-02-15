@@ -2,9 +2,9 @@
 
 # Device
 export FOX_BRANCH="fox_9.0"
-export DT_LINK="https://github.com/ak-ag/android-recovery_device-r5x"
+export DT_LINK="https://github.com/mizdrake7/android_device_realme_5-TWRP"
 
-export DEVICE="r5x"
+export DEVICE="RMX1911"
 export OEM="realme"
 export TARGET="recoveryimage"
 
