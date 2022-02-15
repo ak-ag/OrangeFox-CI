@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_9.0"
-export DT_LINK="https://github.com/ak-ag/device_realme_r5x"
+export DT_LINK="https://github.com/eun0115/android-recovery_device-r5x"
 
 export DEVICE="r5x"
 export OEM="realme"
